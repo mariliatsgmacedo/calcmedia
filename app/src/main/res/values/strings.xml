@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora Notas</string>
+    <string name="label">label</string>
+    <string name="nota_um">Nota 1</string>
+    <string name="nota_dois">Nota 2</string>
+    <string name="faults">Faltas</string>
+    <string name="title_calc">Cálculo Média</string>
+    <string name="calcular">Calcular</string>
+    <string name="todo">TODO</string>
+    <string name="image_main">Image Main</string>
+    <string name="required_field">Preencha o campo</string>
+    <string name="result_info_reproved">"Aluno Reprovado! \nMédia %1$d \nFaltas: %2$d"</string>
+    <string name="result_info_approved">"Aluno Aprovado! \nMédia %1$d \nFaltas: %2$d"</string>
+
+</resources>
